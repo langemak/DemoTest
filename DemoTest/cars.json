@@ -1,0 +1,48 @@
+﻿[
+  {
+    "Model": "LADA Vesta",
+    "Company": "АвтоВАЗ",
+    "Price": 1200000,
+    "Year": 2015,
+    "Weight": 1653,
+    "Country": "Россия"
+  },
+
+  {
+    "Model": "Zeekr 001",
+    "Company": "Zeekr",
+    "Price": 3780000,
+    "Year": 2021,
+    "Weight": 2575,
+    "Country": "Китай"
+  },
+
+  {
+    "Model": "Haval Jolion",
+    "Company": "Great Wall Motors",
+    "Price": 2300000,
+    "Year": 2021,
+    "Weight": 2350,
+    "Country": "Китай"
+
+  },
+
+  {
+    "Model": "CHERRY",
+    "Company": "Tiggo 7 Pro Max",
+    "Price": 1500000,
+    "Year": 2020,
+    "Weight": 1967,
+    "Country": "Китай"
+  },
+
+  {
+    "Model": "iCar Pro Max",
+    "Company": "Apple",
+    "Price": 19999999,
+    "Year": 2040,
+    "Weight": 2599,
+    "Country": "США"
+  }
+]
+
